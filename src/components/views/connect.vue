@@ -24,7 +24,7 @@
 						v-model="host"
 						class="input"
 						type="text"
-						placeholder="localhost (Current computer)"
+						placeholder="clubrapture.ddnt.net (Current computer)"
 					>
 				</div>
 				<div class="field">
@@ -39,7 +39,7 @@
 						v-model="port"
 						class="input"
 						type="number"
-						placeholder="4444"
+						placeholder="8020"
 					>
 				</div>
 				<div class="field">

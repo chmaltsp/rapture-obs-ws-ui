@@ -1,6 +1,20 @@
-# OBS Remote Tablet
+# Rapture WS UI 
 
-OBS Remote UI optimised for tablets, but really it works with any 
+This is a fork of obs-tablet-remote.
+
+OBS Remote UI optimised for tablets, but really it works with any browser
+
+## Deployment
+
+Currently the UI is deployed to here [rapture-obs.surge.sh](http://rapture-obs.surge.sh)
+
+To deploy a new version:
+
+`npm run deploy:surge`
+
+## Usage
+
+In hostname put clubrapture.ddns.net and for `PORT` use 8020.
 
 ## Building instructions
 

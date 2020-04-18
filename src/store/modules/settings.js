@@ -1,7 +1,7 @@
 export default {
 	state: {
-		defaultHost: '',
-		defaultPort: 4444,
+		defaultHost: 'clubrapture.ddns.net',
+		defaultPort: 8020,
 		hasEdited: false,
 		theme: 'default',
 		version: 1

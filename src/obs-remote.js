@@ -18,7 +18,7 @@ export default class OBSRemote extends EventEmitter {
 	 *
 	 * @returns {Promise}
 	 */
-	connect(host = 'localhost', port = 4444) {
+	connect(host = 'clubrapture.ddns.net', port = 8020) {
 		if (this._socket) {
 			this._socket.addEventListener('open', null)
 			this._socket.addEventListener('message', null)
