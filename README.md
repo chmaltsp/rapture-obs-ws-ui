@@ -4,6 +4,10 @@ This is a fork of obs-tablet-remote.
 
 OBS Remote UI optimised for tablets, but really it works with any browser
 
+Websocket is at clubrapture.ddns.net:8020 for direct access.
+
+Password is in Rapture Creds DOC
+
 ## Deployment
 
 Currently the UI is deployed to here [rapture-obs.surge.sh](http://rapture-obs.surge.sh)
