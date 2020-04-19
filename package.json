@@ -10,7 +10,7 @@
     "lint": "vue-cli-service lint",
     "build:deploy": "cross-env BUILD_HOMEPAGE=/obs-tablet-remote/ vue-cli-service build --modern",
     "deploy": "npm-run-all build deploy:surge",
-    "deploy:surge": "cd dist && surge rapture-obs",
+    "deploy:surge": "surge dist rapture-obs.surge.sh",
     "dev": "npm run serve"
   },
   "dependencies": {

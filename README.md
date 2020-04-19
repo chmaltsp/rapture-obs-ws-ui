@@ -12,6 +12,8 @@ Password is in Rapture Creds DOC
 
 Currently the UI is deployed to here [rapture-obs.surge.sh](http://rapture-obs.surge.sh)
 
+If you want to deploy yourself please contact Phil and I'll add you as a collaborator on surge. 
+
 To deploy a new version:
 
 `npm run deploy:surge`
